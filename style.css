@@ -1,0 +1,45 @@
+:root {
+  --primary-color: hsl(257, 40%, 49%);
+}
+
+body {
+  border: 1px solid #000;
+  background-color: var(--primary-color);
+}
+main {
+  display: grid;
+  row-gap: 20px;
+}
+.title,
+.paragraph {
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+}
+.title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  max-width: 300px;
+}
+.paragraph {
+  max-width: 290px;
+  margin: 0 auto;
+  font-family: "Open-sans", sans-serif;
+}
+.register {
+  padding: 10px;
+  border-radius: 28px;
+  border: transparent;
+  width: 200px;
+  color: var(--primary-color);
+  margin: 0 auto;
+}
+.social-media {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 10px;
+  justify-self: center;
+}
