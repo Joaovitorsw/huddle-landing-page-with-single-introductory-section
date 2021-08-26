@@ -80,14 +80,21 @@ Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.fronten
 
 <div align="center">
 
-| :page_facing_up: |
-| :--------------: |
-|     Flexbox      |
-|       Grid       |
-|     Position     |
-|   Mobile First   |
-|    MediaQuery    |
-|   AtomicComit    |
+|  :page_facing_up:  |
+| :----------------: |
+|    Mobile First    |
+|     HTML Class     |
+|     CSS Class      |
+|      Position      |
+|  Background Image  |
+|  Pseudo Selectors  |
+|   CSS Box Model    |
+|  Size Properties   |
+|      Flexbox       |
+|     MediaQuery     |
+|    Atomic Comit    |
+|        Grid        |
+|  Transition        |
 
 </div>
 
