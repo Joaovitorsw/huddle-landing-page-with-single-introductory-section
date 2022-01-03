@@ -6,8 +6,8 @@
 
 <div align="right">
   
-  [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)
-  [![English](https://www.countryflags.io/us/flat/32.png)](README-US.md)
+  [![Portuguese](https://cdn-icons-png.flaticon.com/32/3022/3022546.png)](README.md)
+
   
 </div>
 
@@ -68,7 +68,6 @@ Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.fronten
 
 | :globe_with_meridians: FrontEnd |
 | :-----------------------------: |
-
 | [HTML 5](https://www.w3schools.com/html/) |
 | [CSS3](https://www.w3schools.com/css/) |
 
