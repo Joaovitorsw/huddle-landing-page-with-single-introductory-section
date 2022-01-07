@@ -1,6 +1,6 @@
 <div align="right">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e3c52228-d2d0-4ecd-a86e-d5663fc30ca7/deploy-status)](https://app.netlify.com/sites/huddle-landing-joaovitorsw/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3c52228-d2d0-4ecd-a86e-d5663fc30ca7/deploy-status)](https://app.netlify.com/sites/joaovitorsw-huddle-landing/deploys)
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visualizar: [Clique Aqui](https://huddle-landing-joaovitorsw.netlify.app/)
+Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visualizar: [Clique Aqui](https://joaovitorsw-huddle-landing.netlify.app/)
 
 |                             :computer:Desktop                             |                             :iphone: Mobile                              |
 | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
